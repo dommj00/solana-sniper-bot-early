@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/github/stars/snipe-it-com/solana-sniper-bot">
     <img src="https://img.shields.io/github/forks/snipe-it-com/solana-sniper-bot">
     <a href="https://discord.gg/yuEKcPfn7Y" target="_parent"><img src="https://img.shields.io/discord/1201826085655023616?color=5865F2&logo=Discord&style=flat-square"></a>
-    <a href="https://colab.research.google.com/github/adharna/solana-sniper-bot/blob/main/Solana_Sniper_Bot.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
     <br>
 </p>
 
