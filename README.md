@@ -20,7 +20,7 @@ This is provided as is, for learning purposes.
 
 ## Setup
 To run the script you need to:
-- Convert some SOL to USDC or WSOL (https://jup.gg)
+- Convert some SOL to WSOL (https://jup.gg)
   - You need USDC or WSOL depending on the configuration set below.
 - Configure the script by updating `.env.copy` file (remove the .copy from the file name when done).
   - PRIVATE_KEY (your wallet private key)
