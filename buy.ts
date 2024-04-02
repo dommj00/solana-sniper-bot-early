@@ -541,7 +541,8 @@ function loadSnipeList() {
 }
 
 function shouldBuy(key: string): boolean {
-  return USE_SNIPE_LIST ? snipeList.includes(key) : true;
+  logger.info(processingToken, 'Is processing token buy')
+  return USE_SNIPE_LIST ? snipeList.includes(key) : ONE_TOKEN_AT_A_TIME ? !processingToken : true
 }
 
 const runListener = async () => {
