@@ -1,5 +1,7 @@
 <div align="center">
+    
 ![image](https://github.com/solana-dev-bot/solana-sniper-bot/assets/165755603/76789f0d-56c1-451a-ad55-d22c65a47c74)
+
 </div>
 <p align="center">
 
