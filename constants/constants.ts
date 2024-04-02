@@ -1,5 +1,6 @@
 import { Commitment } from "@solana/web3.js";
-import { logger, retrieveEnvVariable } from "../utils";
+import { logger } from '../buy';
+import { retrieveEnvVariable } from "../utils/utils";
 
 export const NETWORK = 'mainnet-beta';
 export const COMMITMENT_LEVEL: Commitment = retrieveEnvVariable('COMMITMENT_LEVEL', logger) as Commitment;
@@ -16,4 +17,3 @@ export const PRIVATE_KEY = retrieveEnvVariable('PRIVATE_KEY', logger);
 export const QUOTE_MINT = retrieveEnvVariable('QUOTE_MINT', logger);
 export const QUOTE_AMOUNT = retrieveEnvVariable('QUOTE_AMOUNT', logger);
 export const MIN_POOL_SIZE = retrieveEnvVariable('MIN_POOL_SIZE', logger);
-
