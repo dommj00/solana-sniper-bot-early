@@ -1,3 +1,16 @@
+<div align="center">
+<img src="https://github.com/solana-dev-bot/solana-sniper-bot/assets/165755603/50dd15c4-4eb0-4808-82fd-730b9b77fe0a">
+</div>
+<p align="center">
+
+<p align="center">
+    <img src="https://img.shields.io/github/stars/snipe-it-com/solana-sniper-bot">
+    <img src="https://img.shields.io/github/forks/snipe-it-com/solana-sniper-bot">
+    <a href="https://discord.gg/yuEKcPfn7Y" target="_parent"><img src="https://img.shields.io/discord/1201826085655023616?color=5865F2&logo=Discord&style=flat-square"></a>
+    <a href="https://colab.research.google.com/github/adharna/solana-sniper-bot/blob/main/Solana_Sniper_Bot.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+    <br>
+</p>
+
 # Solana Sniper Bot (Poc)
 This code is written as proof of concept to demonstrate how we can buy new tokens immediately after the liquidity pool is open for trading.
 
